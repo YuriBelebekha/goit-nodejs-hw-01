@@ -1,0 +1,24 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "Full Stack Developer - Node.js - Module 1. Basics Node.js - Homework 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriBelebekha/goit-nodejs-hw-01.git"
+  },
+  "author": "Yuri Belebekha <ybelebekha@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriBelebekha/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/YuriBelebekha/goit-nodejs-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
