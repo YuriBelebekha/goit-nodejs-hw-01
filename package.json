@@ -20,5 +20,9 @@
   "homepage": "https://github.com/YuriBelebekha/goit-nodejs-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "commander": "^10.0.1",
+    "shortid": "^2.2.16"
   }
 }
